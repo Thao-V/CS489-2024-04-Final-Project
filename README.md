@@ -16,3 +16,4 @@
 ## Note
 * Please write that in the file 'specs.md'.
 * Please take the screenshots for UML diagrams. If you want to share UML project, please use the software `Visual Paradigm` at: https://www.visual-paradigm.com/download/community.jsp
+* Each day you step a small step, one day you will be on top of the mountain. Therefore, please submit something in this project daily. Enjoy your project.
